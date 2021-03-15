@@ -1,0 +1,11 @@
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp.MobileAppService\bin\Debug\netcoreapp2.0\EAXamarinApp.MobileAppService.deps.json
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp.MobileAppService\bin\Debug\netcoreapp2.0\EAXamarinApp.MobileAppService.runtimeconfig.json
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp.MobileAppService\bin\Debug\netcoreapp2.0\EAXamarinApp.MobileAppService.runtimeconfig.dev.json
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp.MobileAppService\bin\Debug\netcoreapp2.0\EAXamarinApp.MobileAppService.dll
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp.MobileAppService\bin\Debug\netcoreapp2.0\EAXamarinApp.MobileAppService.pdb
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp.MobileAppService\obj\Debug\netcoreapp2.0\EAXamarinApp.MobileAppService.csprojAssemblyReference.cache
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp.MobileAppService\obj\Debug\netcoreapp2.0\EAXamarinApp.MobileAppService.csproj.CoreCompileInputs.cache
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp.MobileAppService\obj\Debug\netcoreapp2.0\EAXamarinApp.MobileAppService.AssemblyInfoInputs.cache
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp.MobileAppService\obj\Debug\netcoreapp2.0\EAXamarinApp.MobileAppService.AssemblyInfo.cs
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp.MobileAppService\obj\Debug\netcoreapp2.0\EAXamarinApp.MobileAppService.dll
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp.MobileAppService\obj\Debug\netcoreapp2.0\EAXamarinApp.MobileAppService.pdb

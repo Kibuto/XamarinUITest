@@ -1,0 +1,10 @@
+E:\Project\Subject project\Test\EAXamarinApp\CrossPlatformTest\bin\Debug\test-cloud.exe
+E:\Project\Subject project\Test\EAXamarinApp\CrossPlatformTest\bin\Debug\CrossPlatformTest.dll
+E:\Project\Subject project\Test\EAXamarinApp\CrossPlatformTest\bin\Debug\CrossPlatformTest.pdb
+E:\Project\Subject project\Test\EAXamarinApp\CrossPlatformTest\bin\Debug\nunit.framework.dll
+E:\Project\Subject project\Test\EAXamarinApp\CrossPlatformTest\bin\Debug\Xamarin.UITest.dll
+E:\Project\Subject project\Test\EAXamarinApp\CrossPlatformTest\obj\Debug\CrossPlatformTest.csprojAssemblyReference.cache
+E:\Project\Subject project\Test\EAXamarinApp\CrossPlatformTest\obj\Debug\CrossPlatformTest.csproj.CoreCompileInputs.cache
+E:\Project\Subject project\Test\EAXamarinApp\CrossPlatformTest\obj\Debug\CrossPlatformTest.csproj.CopyComplete
+E:\Project\Subject project\Test\EAXamarinApp\CrossPlatformTest\obj\Debug\CrossPlatformTest.dll
+E:\Project\Subject project\Test\EAXamarinApp\CrossPlatformTest\obj\Debug\CrossPlatformTest.pdb

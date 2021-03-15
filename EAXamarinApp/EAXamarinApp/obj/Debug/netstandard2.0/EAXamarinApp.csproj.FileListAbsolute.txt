@@ -1,0 +1,17 @@
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\bin\Debug\netstandard2.0\EAXamarinApp.deps.json
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\bin\Debug\netstandard2.0\EAXamarinApp.dll
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\bin\Debug\netstandard2.0\EAXamarinApp.pdb
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\EAXamarinApp.csprojAssemblyReference.cache
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\EAXamarinApp.csproj.CoreCompileInputs.cache
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\EAXamarinApp.AssemblyInfoInputs.cache
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\EAXamarinApp.AssemblyInfo.cs
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\EAXamarinApp.dll
+E:\Project\Subject project\Test\EAXamarinApp\EAXamarinApp\EAXamarinApp\obj\Debug\netstandard2.0\EAXamarinApp.pdb
